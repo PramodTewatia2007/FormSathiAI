@@ -2,7 +2,7 @@ services:
   - type: web
     name: formsathiai
     runtime: docker
-    plan: starter
+    plan: free
     autoDeployTrigger: off
     healthCheckPath: /api/health
     dockerfilePath: ./Dockerfile
