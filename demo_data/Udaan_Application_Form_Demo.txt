@@ -1,0 +1,31 @@
+Udaan Student Support Scholarship Application
+Academic session: 2026–27
+Application ID: DEMO-USS-2026-001
+
+Section A — Applicant Information
+- Full name: Aarav Sharma
+- Date of birth: 15/08/2007
+- Course: B.Tech Computer Science
+- Current study year: First year
+- Institution: Sunrise Institute of Technology (fictional)
+
+Section B — Academic Information
+- Qualifying examination percentage: 78%
+- Marksheet attached: Yes
+- Institution certificate attached: Yes
+
+Section C — Family Income
+- Annual family income: ₹1,80,000
+- Income certificate attached: No
+
+Section D — Identity and Bank Documents
+- Identity proof attached: Yes, fictional placeholder
+- Bank passbook copy attached: No
+- Bank account holder: Aarav Sharma
+- Bank account reference: DEMO-ACCOUNT-0001
+
+Section E — Applicant Declaration
+“I confirm that I have reviewed the information in this fictional demonstration form. I understand that any discrepancies must be checked against the original documents.”
+- Declaration accepted: No
+- Applicant signature: Not provided
+- Date: Not provided

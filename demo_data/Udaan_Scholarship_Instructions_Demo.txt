@@ -1,0 +1,71 @@
+Udaan Education Foundation
+Udaan Student Support Scholarship 2026–27
+Document type: Fictional scholarship instructions.
+Reference ID: DEMO-USS-RULES-2026
+
+Purpose:
+This fictional scholarship program demonstrates how FormSathiAI explains application requirements to students and families.
+
+Section 1: Academic Eligibility
+1. Applicants must be enrolled in the first year of an undergraduate course.
+2. Applicants must have obtained at least 60% marks in their qualifying examination.
+3. Applicants must provide an academic marksheet as supporting evidence.
+4. Meeting these criteria does not guarantee selection or a scholarship award.
+
+Section 2: Eligible Courses
+For this demonstration, the following courses are accepted:
+- Bachelor of Technology (B.Tech)
+- Bachelor of Science (B.Sc.)
+- Bachelor of Arts (B.A.)
+- Bachelor of Commerce (B.Com.)
+All eligibility rules in this document are fictional.
+
+Section 3: Family Income Criteria
+1. The fictional annual family income limit is ₹2,50,000.
+2. Applicants must provide an income certificate as evidence.
+3. If declared income exceeds ₹2,50,000, the application does not meet this sample income criterion.
+4. FormSathiAI must flag missing or inconsistent income information for review.
+
+Section 4: Required Documents
+The fictional instructions list:
+1. Academic marksheet.
+2. Identity proof.
+3. Income certificate.
+4. Bank passbook copy.
+5. Institution certificate.
+6. Completed applicant declaration.
+
+Document verification:
+Uploaded files must be checked for presence and readability. The prototype may flag missing documents but must not claim that an official authority has verified them.
+
+Section 5: Completing the Form
+1. Enter the applicant's name as shown on supporting documents.
+2. Enter the date of birth in DD/MM/YYYY format.
+3. Provide the course and current year of study.
+4. Enter the qualifying examination percentage.
+5. Enter annual family income in Indian rupees.
+6. Confirm which supporting documents are available.
+7. Review all warnings before marking the declaration complete.
+
+Section 6: Inconsistent Information
+If marks entered in the application differ from marks on the marksheet, the applicant must review both values and correct the application only after checking the original document.
+The system must not automatically choose one value as correct.
+
+Section 7: Privacy
+Applicants should upload only documents necessary for the demonstration. Sensitive values must be minimized, protected, and not retained unnecessarily.
+The demo must use placeholder identity and banking information rather than real personal records.
+
+Section 8: Application Deadline
+Fictional deadline: 30 November 2026.
+Date format: DD/MM/YYYY.
+
+Section 9: Submission Instructions
+1. Complete the application fields.
+2. Review the required-document checklist.
+3. Resolve missing-field warnings.
+4. Review inconsistencies.
+5. Confirm the declaration only after checking the supplied information.
+The demonstration application must not submit anything to an external website.
+
+Section 10: Limits of This Document
+This document is fictional and is not an official scholarship notification. It must not be used to make decisions about a real scholarship. For real applications, consult the relevant official authority and its current instructions.

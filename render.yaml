@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: formsathiai
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"

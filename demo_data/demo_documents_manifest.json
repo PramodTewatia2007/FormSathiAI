@@ -1,0 +1,139 @@
+{
+  "scholarship_name": "Udaan Student Support Scholarship 2026–27",
+  "reference_id": "DEMO-USS-RULES-2026",
+  "academic_session": "2026–27",
+  "application_id": "DEMO-USS-2026-001",
+  "fictional_warning": "FICTIONAL DEMO — NOT AN OFFICIAL SCHOLARSHIP — NOT VALID FOR REAL APPLICATIONS.",
+  "documents": [
+    {
+      "filename": "Udaan_Scholarship_Instructions_Demo.pdf",
+      "document_type": "official_instructions",
+      "reference_id": "DEMO-USS-RULES-2026",
+      "expected_attachment_status": "official_guideline",
+      "description": "Four-page complete official scholarship instructions with 10 sections.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 2",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Udaan_Application_Form_Demo.pdf",
+      "document_type": "application_form",
+      "reference_id": "DEMO-USS-2026-001",
+      "expected_attachment_status": "core_application",
+      "description": "Completed sample application form with Sections A to E.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 2",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Academic_Marksheet_Demo.pdf",
+      "document_type": "academic_marksheet",
+      "reference_id": "DEMO-MARK-001",
+      "expected_attachment_status": "attached",
+      "description": "Standard marksheet showing 78% percentage obtained.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Academic_Marksheet_Inconsistent_Demo.pdf",
+      "document_type": "academic_marksheet_inconsistent",
+      "reference_id": "DEMO-MARK-001",
+      "expected_attachment_status": "available_in_library",
+      "description": "Altered marksheet showing 58% percentage for discrepancy testing.",
+      "relevant_scenarios": [
+        "Scenario 3"
+      ]
+    },
+    {
+      "filename": "Identity_Proof_Placeholder_Demo.pdf",
+      "document_type": "identity_proof",
+      "reference_id": "DEMO-ID-0001",
+      "expected_attachment_status": "attached_unverified",
+      "description": "Fictional identity placeholder, non-official.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Income_Certificate_Placeholder_Demo.pdf",
+      "document_type": "income_certificate",
+      "reference_id": "DEMO-INCOME-0001",
+      "expected_attachment_status": "missing_by_default",
+      "description": "Fictional income certificate for Aarav Sharma showing ₹1,80,000.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 2",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Bank_Passbook_Placeholder_Demo.pdf",
+      "document_type": "bank_passbook",
+      "reference_id": "DEMO-ACCOUNT-0001",
+      "expected_attachment_status": "missing_by_default",
+      "description": "Fictional bank passbook placeholder, non-official.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 2",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Institution_Certificate_Demo.pdf",
+      "document_type": "institution_certificate",
+      "reference_id": "DEMO-ENROLL-001",
+      "expected_attachment_status": "attached_unverified",
+      "description": "Enrollment certificate from Sunrise Institute of Technology.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Applicant_Declaration_Demo.pdf",
+      "document_type": "applicant_declaration",
+      "reference_id": "DEMO-USS-2026-001",
+      "expected_attachment_status": "incomplete_by_default",
+      "description": "Applicant declaration requiring explicit confirmation.",
+      "relevant_scenarios": [
+        "Scenario 1",
+        "Scenario 2",
+        "Scenario 3",
+        "Scenario 4"
+      ]
+    },
+    {
+      "filename": "Udaan_Application_Form_Scanned_Demo.png",
+      "document_type": "scanned_image",
+      "reference_id": "DEMO-USS-2026-001-SCAN",
+      "expected_attachment_status": "ocr_test_asset",
+      "description": "Scanned image representation of application form for OCR testing.",
+      "relevant_scenarios": [
+        "OCR Testing"
+      ]
+    },
+    {
+      "filename": "Udaan_Scholarship_Instructions_Scanned_Demo.png",
+      "document_type": "scanned_image",
+      "reference_id": "DEMO-USS-RULES-2026-SCAN",
+      "expected_attachment_status": "ocr_test_asset",
+      "description": "Scanned image representation of scholarship instructions for OCR testing.",
+      "relevant_scenarios": [
+        "OCR Testing"
+      ]
+    }
+  ]
+}
