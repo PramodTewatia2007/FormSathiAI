@@ -180,9 +180,21 @@ cd backend
 .\.venv\Scripts\python.exe -m pytest tests -v
 ```
 
+## 7. GitHub Actions and Render Deployment
+
+The `CI` workflow runs the backend tests and builds the frontend on pushes and pull requests targeting `main`. A successful push to `main` triggers a Render deploy when the `RENDER_DEPLOY_HOOK_URL` GitHub Actions repository secret is configured. Pull requests never deploy.
+
+To connect Render:
+
+1. In Render, create a Blueprint and connect `IRNCyber/FormSathiAI` on the `main` branch. Render reads the root `render.yaml` and builds the Docker service.
+2. After the service is created, open its Settings page and create a Deploy Hook.
+3. In GitHub, open **Settings → Secrets and variables → Actions**, create a repository secret named `RENDER_DEPLOY_HOOK_URL`, and paste the Render hook URL as its value.
+
+Render auto-deploys are disabled in the Blueprint so production deploys start only after both CI jobs pass. The GitHub workflow skips the deploy step until the secret is set.
+
 ---
 
-## 7. Project Directory Structure
+## 8. Project Directory Structure
 
 ```
 formsathiai/

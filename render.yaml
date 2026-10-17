@@ -3,6 +3,7 @@ services:
     name: formsathiai
     runtime: docker
     plan: starter
+    autoDeployTrigger: off
     healthCheckPath: /api/health
     dockerfilePath: ./Dockerfile
     dockerContext: .
