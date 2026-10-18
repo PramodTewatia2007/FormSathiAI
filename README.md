@@ -1,5 +1,5 @@
 # FormSathiAI
-
+![image alt](https://github.com/PramodTewatia2007/FormSathiAI/blob/7ddd82f62fe624879c1b8cce07c86194ace65f38/Formsathiai.PNG)
 > **“Make complicated forms easier to understand.”**
 
 FormSathiAI is an AI-powered web application designed to help students, families, and community service centres (CSCs) understand scholarship applications, college admissions paperwork, and public-service forms through simple, grounded explanations in **English** and **Hindi**.
